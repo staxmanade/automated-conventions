@@ -33,6 +33,7 @@ Below is collection of tools in various development platforms that help to autom
 
 - [ReSharper](https://www.jetbrains.com/resharper/)
 - [FxCop](https://en.wikipedia.org/wiki/FxCop)
+- [NDepend](http://www.ndepend.com/)
 - StyleCop (is that still a thing?)
 
 ---
