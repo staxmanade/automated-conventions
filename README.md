@@ -15,7 +15,7 @@ Below is collection of tools in various development platforms that help to autom
  - [ ] You're programming language likely has a set of errors/warnings that can be turned on to enforce. (like turning warnings into errors)
 
 ---
-Continuous Integration
+# Continuous Integration
 
 - Greate list of [tools here](https://github.com/ciandcd/awesome-ciandcd)
 
