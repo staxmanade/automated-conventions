@@ -1,3 +1,6 @@
+# Automated Conventions
+
+> By: [@staxmanade](http://staxmanade.com)
 
 # What is this?
 
