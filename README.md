@@ -8,7 +8,7 @@ Below is collection of tools in various development platforms that help to autom
 
  - [ ] [.editorconfig](http://editorconfig.org)
  - [ ] [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
- - [ ] Code Style. ([Indent](https://en.wikipedia.org/wiki/Indent_style), Naming, etc), [Naming](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+ - [ ] Code Style. ([Indent](https://en.wikipedia.org/wiki/Indent_style), [Naming](https://en.wikipedia.org/wiki/Naming_convention_(programming)), etc...)
  - [ ] Compilers
  - [ ] Linters
  - [ ] Unit Testing Frameworks/Runners
